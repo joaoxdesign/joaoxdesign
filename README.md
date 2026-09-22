@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm João 👋
 
-<!--
-**joaoxdesign/joaoxdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategic design director with 30+ years in brand strategy, service design,
+digital product and design systems across Portugal and Europe.
 
-Here are some ideas to get you started:
+**What I focus on now**
+- Product vision as the steering layer for teams and AI agents
+- Design systems and design tokens
+- No-code / low-code building (Webflow, Lovable, n8n)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research**
+- *Dynamic Identities*, doctoral research at FBAUL/CIEBA
+- *C.O.D.A.*, a research proposal on organisational identity coherence
+  in AI-mediated systems (IST/ITI-LARSyS)
+
+**Also:** Country Manager, IxDF Portugal · Founder, Moshi Moshi (2001)
+
+🌐 [joaocastro.design](https://joaocastro.design) · ✉️ lets.talk@joaocastro.design
